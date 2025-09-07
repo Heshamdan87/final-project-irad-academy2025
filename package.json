@@ -1,0 +1,21 @@
+{
+  "name": "final-project-irad-academy2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heshamdan87/final-project-irad-academy2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Heshamdan87/final-project-irad-academy2025/issues"
+  },
+  "homepage": "https://github.com/Heshamdan87/final-project-irad-academy2025#readme"
+}
